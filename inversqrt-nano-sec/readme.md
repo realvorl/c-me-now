@@ -1,4 +1,4 @@
-# Measure time in NANO-SECONDS
+# Measure execution time in NANO-SECONDS
 
 To showcase this, I used a piece of fantastic code from 
 [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena/blob/dbe4ddb10315479fc00086f08e25d968b4b43c49/code/game/q_math.c#L552) Quick Inverse SQRT.
